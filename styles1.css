@@ -1,0 +1,53 @@
+@media(max-width: 670px){
+  #modal {
+    margin-top: 10px;
+    width: 96%;
+  }
+  h2 {
+    font-size: 39px;
+    margin-bottom: 19px;
+  }
+  #title2 {
+    font-size: 30px;
+    margin-bottom: 0;
+  }
+  p {
+    font-size: 17px;
+    font-weight: bold;
+    bottom: 14px;
+  }
+  img {
+    height: 300px;
+    width: auto;
+    margin-bottom: 34px;
+  }
+  #br {
+    display: inline;
+  }
+  .danger {
+    margin-top: 10px;
+  }
+  .form {
+    width: 96%;
+  }
+  .ctn {
+    font-size: 180%;
+    padding: 12px 35px;
+  }
+  .ctn:active {
+    position: relative;
+    top: 5px;
+    box-shadow: none;
+  }
+  .txt {
+    font-size: 28px;
+    margin-top: 10px;
+  }
+  input {
+    border-color: #000;
+    border-width: 1px;
+    text-align: left;
+    font-size: 26px;
+    margin-bottom: 16px;
+  }
+}
